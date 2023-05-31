@@ -5,7 +5,8 @@
     "module": "nodenext",
     "moduleResolution": "nodenext",
     "experimentalDecorators": true,
-    "importHelpers": true
+    "importHelpers": true,
+    "esModuleInterop": true
   },
   "include": ["src", "test"]
 }
